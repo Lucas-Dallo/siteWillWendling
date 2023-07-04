@@ -22,6 +22,7 @@ html { background-color: #A9A9A9; }
 	margin-top: -178vh;
 	width: 392px;
 	height: 465px;
+	background-repeat: no-repeat; 
 }
 
 #extraDiv2{
